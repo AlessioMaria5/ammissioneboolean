@@ -1,0 +1,71 @@
+body {
+
+ background-image: url(images/background.jpg);
+ background-size: cover;
+
+}
+
+.principale {
+
+background-color: rgba(0, 0, 0, 0.5);
+margin: auto;
+padding:50px;
+width:50%;
+border: 3px;
+
+}
+
+#limlogo {
+
+  width: 200px;
+  height: auto;
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+
+}
+
+#taking {
+
+  color: #00ff00;
+  text-align: center;
+}
+
+
+.green {
+
+  background-color: #00ff00;
+  padding: 10px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+
+}
+
+input {
+
+  margin-left: 5px;
+}
+
+
+.monopattino {
+
+  color: white;
+
+}
+
+.barra {
+
+  height: 15px;
+  border-radius: 5px;
+  margin-top: -20px;
+  margin-bottom: 2px;
+}
+
+h3 {
+
+  margin-top: 15px;
+  margin-bottom: -10px;
+}
